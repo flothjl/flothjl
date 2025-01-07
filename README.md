@@ -6,3 +6,7 @@
 - 📖 Creator of [book-buddies.xyz](https://book-buddies.xyz)
 - 🧑‍🌾 I live in the countryside
 - 🍺 Sometimes building requires a cold one
+- 🛠️ Always tinkering on something
+  - [BitcoinHub](https://github.com/flothjl/bitcoinhub)
+  - [TUI for Twitch](https://github.com/flothjl/twitchtui)
+  - ...
