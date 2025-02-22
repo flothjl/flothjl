@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-- 👨‍💻 Currently leading a development team in the fintech industry
+- 👨‍💻 Currently leading a development team in fintech
 - 🕸️5️⃣ [Contributor](https://github.com/TBD54566975/dwn-sdk-js)
 - 🌐 Interested in self-sovereign identity
 - 📖 Creator of [book-buddies.xyz](https://book-buddies.xyz)
